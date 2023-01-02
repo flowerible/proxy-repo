@@ -74,3 +74,617 @@ SHA1: 349883d48bbac5b6dca7750df263a51b51be7a25
 SHA256: a9e0a6737e18db985fd2c188bbdade20a8c19a3e17dc4cdee7a9af838687862b
 Filename: https://cdn.discordapp.com/attachments/921967527356170240/1059437741009551360/Santander_1.0.deb
 
+Package: flowercord
+Name: FlowerCord
+Architecture: iphoneos-arm
+Description: Discord addon
+Maintainer: ren7995
+Author: ren7995
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.0.0
+Installed-Size: 184
+MD5sum: f87133322a8dba375cf2566e747ca6e1
+SHA1: 2d69de1d8b1bb756c661a70cbbd5db334406ec5b
+SHA256: c2dfd5cc2f7afcde04f57e5ead08de3aabc0fd0b1d0ac86bdaf79f08943f8689
+Filename: https://github.com/acquitelol/rosiecord/raw/master/Flowercord_Patcher/packages/flowercord_1.0.0_iphoneos-arm.deb
+
+Package: com.icraze.complicationsfix
+Name: ComplicationsFix
+Architecture: iphoneos-arm
+Description: Fix Complications tweak on iOS 15 (and maybe 16)
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Version: 1.0
+Installed-Size: 216
+MD5sum: 1fac5be082c94fc09dcb1fbbbe2048c0
+SHA1: c114b7fdd0e9e8928ad7d99406f62e49ab831262
+SHA256: 7cdd90cc50b15acdeb4ecf0176e754b07a1916da563df54121e4c0ea0775003c
+Filename: https://cdn.discordapp.com/attachments/1043360943909896292/1058321219209928714/com.icraze.complicationsfix_1.0_iphoneos-arm.deb
+
+Author: ElioFegh <eliofeghaliiphone@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: dim it
+Package: com.eliofeghali.dim-it
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 357
+Version: 1.0
+Architecture: iphoneos-arm
+Description: dim your lockscreen
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dimitDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dimitDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: eliofegh
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/dimitP.bundle/icon@3x.png
+MD5sum: 10a6e33f3221d1ba22b8d29b88760f07
+SHA1: 07dff626b19814e1ced55f5dac7145f33277b5bf
+SHA256: ff2660c8e4599ad95da9da064817ff33cb24aa59f85e6b1bdc23cb54f1e910f5
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dimit_1.0.deb
+
+Package: jp.r-plus.slidecut
+Depends: mobilesubstrate, firmware (>= 5.0)
+Name: SlideCut
+Version: 0.9
+Architecture: iphoneos-arm
+Description: Slide shortcut via space key.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: r_plus <anasthasia.r+aa@gmail.com>
+Section: Tweaks
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
+Installed-Size: 153
+Tag: purpose::extension
+MD5sum: 38e511d466af33482901c248d4bcc636
+SHA1: 8a0601570b4fe90ddb91aaebcd611559faffb5de
+SHA256: 37e33d0b130641591a8b0f67967d97869437e15287c98c6bd1e20353669719f4
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/slidecut_0.9.deb
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: libSandy
+Package: com.opa334.libsandy
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Section: System
+Installed-Size: 569
+Version: 1.0.3-2
+Architecture: iphoneos-arm
+Description: Securely extend the sandbox of system processes and user applications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension, role::developer
+MD5sum: b3e92e63726b08674f5ad05e9c334ed8
+SHA1: cc8a1bc148cda40b5c7860fc373afb1621792464
+SHA256: f18bd59579380c8e109aeea2168f1a25aaf5a1cd8ac42b53eadf0ea22e772d87
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/libsandy_1.0.3-2.deb
+
+Package: h.ryan.youtubereborn
+Name: YouTube Reborn
+Architecture: iphoneos-arm
+Description: YouTube Customizer
+Maintainer: Lillie
+Author: Lillie
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Version: 4.0.9
+Installed-Size: 24876
+MD5sum: 9e363e9db1654ba341c09fb52c3c2fd2
+SHA1: 53e34615f94b44dcbbe7a366b9a1997a37b46084
+SHA256: e4d02afe7294fb800108deb99ffda0e86c10fd3a765fdff4bea38fd875c05f42
+Filename: https://github.com/LillieH001/YouTube-Reborn/releases/download/4.0.9/YouTube.Reborn.v4.0.9.deb
+
+Package: net.limneos.glow
+Name: Glow
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Version: 0.5-138
+Architecture: iphoneos-arm
+Description: Let your lockscreen glow!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=glowDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=glowDp
+Installed-Size: 960
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+MainLibMD5: 815970e5f2c015faee2d57610ebb015e
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/Glow.bundle/icon.png
+MD5sum: 216089ee450c740ef6281bb90d399b81
+SHA1: 22e3c6527ad42b686608745f09014e552c757000
+SHA256: 67920c8d2df4ad0cad3af747c4fbb8b86bac77c304435f948a61035fd757045e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/glow_0.5-138.deb
+
+Package: jp.r-plus.doublecut
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Name: DoubleCut
+Version: 0.6
+Architecture: iphoneos-arm
+Description: DoubleTap/TripleTap/LongPress key to insert arbitrary text.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+Section: Tweaks
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Installed-Size: 412
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/DoubleCutSettings.bundle/DoubleCut@2x.png
+MD5sum: ee9a7e6ae614103d16ef0f0c363621af
+SHA1: b19767cfacd1e0151c927a99f851f37e95364f8d
+SHA256: 2f8929ab3e2f5d44abad4856246a9883ce77694ba7d90d1b88cd21d7dbbfad5c
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/doublecut_0.6.deb
+
+Package: ai.paisseon.reverie
+Name: Reverie
+Author: Paisseon
+Description: Hibernate when your battery gets low
+Maintainer: Paisseon
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.megadev.sentinel, love.litten.puck
+Architecture: iphoneos-arm
+Icon: https://paisseon.github.io/info/reverie.png
+SileoDepiction: https://paisseon.github.io/info/reverie.json
+Depiction: https://paisseon.github.io/info/reverie.html
+Version: 2.4.1
+Installed-Size: 584
+MD5sum: 49272f9e2d256f98080f6132eea3e122
+SHA1: 6ce4929bdcc4d7a9239e3069f9d567a879ffe48d
+SHA256: 70868b88ba8cbf09b14ef5bf392680eb72c641c20bc44bbb7e83b55691130532
+Filename: https://github.com/Paisseon/Reverie/releases/download/v2.4.1/ai.paisseon.reverie_2.4.1_iphoneos-arm.deb
+
+Package: ai.paisseon.vivy
+Name: Vivy
+Author: Paisseon
+Description: Free battery theming engine
+Maintainer: Paisseon
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.muirey03.libimagepicker, org.thebigboss.libcolorpicker, emt.paisseon.lipfix
+Architecture: iphoneos-arm
+Icon: https://paisseon.github.io/info/vivy.png
+SileoDepiction: https://paisseon.github.io/info/vivy.json
+Depiction: https://paisseon.github.io/info/vivy.html
+Version: 1.3
+Installed-Size: 452
+MD5sum: c6e1c36f4952c00b9294459066184e24
+SHA1: f58684e6537c291ba8541891a98e5eb6b1d3bfd1
+SHA256: bf9e236484a6b12aa73d4522d95f9300f7f968e7b1004804eac536eaf02c1244
+Filename: https://github.com/Paisseon/Vivy/releases/download/v1.3/ai.paisseon.vivy_1.3_iphoneos-arm.deb
+
+Author: Mika <mika368@163.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: iWall
+Package: com.mika.iwall
+Conflicts: com.floatlyricxi.iwall
+Replaces: com.floatlyricxi.iwall
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 3921
+Version: 1.4.3
+Architecture: iphoneos-arm
+Description: 可设置桌面、锁屏、控制中心、通话、‘设置’、‘微信’背景为视频
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwallDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwallDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mika368
+Tag: purpose::uikit
+Icon: file:///Library/PreferenceBundles/iwallbundle.bundle/iphone@2x.png
+MD5sum: 547fb72928abb8755268416883710dcf
+SHA1: c0efa25ef9ef19dd47b01c0d0df812fc0a77c21d
+SHA256: 2e0f4965c3c96d5e325201268184aacc9f9ba6ebdd6860412621df4258c654cf
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iwall_1.4.3.deb
+
+Author: liuming <liuminggui1993@163.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard
+Package: me.liuming.apphider
+Depends: firmware (>= 6.0), mobilesubstrate
+Section: Tweaks
+Installed-Size: 6222
+Version: 2.1.6
+Architecture: iphoneos-arm
+Description: Hide your Apps from SpringBoard
+    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: liuming
+Tag: purpose::extension, role::enduser
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+MD5sum: 43a2552af61c674f076e1452b29541c1
+SHA1: b4c4ed1ddad8786b7b0e4e9f69bfead63369e2ec
+SHA256: 54f8a240bb79865160e2ee2bd0b6428948f116643688636a83a514a06614ff44
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/apphider_2.1.6.deb
+
+Author: ljinc <ljinc.info@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: PhotosInfo
+Package: com.ljinc.photosinfo
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 147
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tap photo title to show info and copy file:// URL
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosinfoDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosinfoDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ljinc
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/PhotosInfo.bundle/icon@2x.png
+MD5sum: 60016b3dcc932412c330cf5226e11b29
+SHA1: a18ccfad34bb8236c7c2d66253675ee1e4e77b3e
+SHA256: e67162bea6d7199e940b58d5fa514b1bbaf479a9ee0d82c1f0b4690becc67fa9
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/photosinfo_1.0.deb
+
+Package: com.tomaszpoliszuk.keyboardcontroller
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Name: Keyboard Controller
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Control your Keyboard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Installed-Size: 756
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
+MD5sum: bed6beb15c37b60556686f1d30be4009
+SHA1: 5fb017ea6e74cb5693d6e7bdb9ce2897928a85c2
+SHA256: 4b07a9b3fcf088af7c0c544eab434df9665c476513d5c36040b224b788b03822
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/keyboardcontroller_1.2.1.deb
+
+Name: LookinLoader
+Package: com.chinapyg.lookinloader
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, applist
+Version: 1.0.7-1
+Architecture: iphoneos-arm
+Description: LookinLoader to Inspect/modify UI apps.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lookinloaderDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lookinloaderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: creantan/P.Y.G <creantan@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 4123
+dev: creantan
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+MD5sum: 4bb3f439d712956111e430de4f5a559f
+SHA1: 8ca53a82f86c2fc49f6d55811d43eeaf3156627f
+SHA256: 02674457616b06f42691dd1baff3dc67769bbfd99d0c9166c780bd8018af880b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lookinloader_1.0.7-1.deb
+
+Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Depends: firmware (>= 14.1), mobilesubstrate
+Name: MagSafe Enabler
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Enable new native MagSafe charging view on lockscreen when connecting device to power source
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Installed-Size: 175
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
+MD5sum: 786b8f2dcfc23d15fbcb3fc12df6530b
+SHA1: ffce73b708ccea0bda0ce2e921859d2b475c8426
+SHA256: 3409087433f9387921a2194072f23fc8373489b7e9e2c31918d7eef5d0106093
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lockscreenbatterymagsafe_1.0.4.deb
+
+Author: ElioFegh <eliofeghaliiphone@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Status Bar Changer
+Package: com.eliofegh.status-bar-changer
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 575
+Version: 1.9.7
+Architecture: iphoneos-arm
+Description: Change everything written on the status bar!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusbarchangerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusbarchangerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: eliofegh
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/statusBarChanger.bundle/icon@2x.png
+MD5sum: 16d0859e0fb4604421ccf19173d84e7e
+SHA1: 1cef9080ad781215e5bee9289e3accd3cace4175
+SHA256: d19322c0bc719dcbd1deb8b7eb557d9059b6798a1bd705eb90c8db7045be28b1
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/statusbarchanger_1.9.7.deb
+
+Name: SpringAnimations
+Package: com.cydiageek.springanimations
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Nice SpringBoard Animations Effects on iOS 11/12/13/14!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 563
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
+MD5sum: ab82b03fa27169c5c99a23505d23afd7
+SHA1: f635e9f38a4a6886ca05825f501d4f26bddbdcfc
+SHA256: 65473d72b6fc30866ca2a81201f6bf2843e5583a2bf5aef92f224f7d17e2941d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/springanimations_1.1.0.deb
+
+Author: TheRedSpecial <theredspecial0@hotmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: FastAnim
+Package: red.special.fastanim
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 288
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Speed up SpringBoard Animations!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastanimDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastanimDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ljinc
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/FastAnimPrefs.bundle/icon@2x.png
+MD5sum: 206e85b6c58de7b56d975657810da9a8
+SHA1: 1bf5411686c52d2f74c32ae9c841aa52e6e4d6de
+SHA256: e7fb2b63f8780077c931484d54570a303602bfea61e54c422f0d6cad1bfd0975
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fastanim_1.0.deb
+
+Author: iCraze <icrazeios@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Spoticentre
+Package: com.icraze.spoticentre
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 157
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Centre the song/artist name in the Spotify app!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spoticentreDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spoticentreDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: icraze
+Tag: purpose::extension
+MD5sum: 71f98c05f102029091876fa9b10850e6
+SHA1: f763d692749a811ab817b82695fe7272c2178446
+SHA256: 2c43ce441eeed895ea1c24cabe82503e19263b1ef5bba5d23687c2d775670e25
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/spoticentre_2.1.deb
+
+Author: iCraze <icrazeios@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: KeepMyJB
+Package: com.icraze.keepmyjb
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 145
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Remove the "Software Update" and "Erase All Content And Settings" tabs in the Settings app!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keepmyjbDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keepmyjbDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: icraze
+Tag: purpose::extension
+MD5sum: 382dba4d540b6818ae3af891ad5b4b4b
+SHA1: 43d0ed1e7da465f4558cc1fbb0b395326a46424a
+SHA256: 8a69b395d80ea7de7dedca3afdd4d2d4dd39365c5fb432ce95c0a57bf70743d2
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/keepmyjb_1.1.deb
+
+Name: StripeCount
+Package: me.lightmann.stripecount
+Priority: optional
+Depends: mobilesubstrate, xyz.willy.zebra (<= 1.1.99), firmware (>= 13.0)
+Version: 1.0.3.4
+Architecture: iphoneos-arm
+Description: For Zebra - See the number of installed packages at a glance
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stripecountDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stripecountDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Lightmann <lightmanns11@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 174
+dev: lightmann
+Icon: https://raw.githubusercontent.com/L1ghtmann/StripeCount/master/icon.png
+MD5sum: 3e308dd3ce3b584001f407f6dd380b6e
+SHA1: c1044d80d99532d954af435644e5cf7af9973cc0
+SHA256: 63962b442096c9186b3a5898c4aa2f7fd1b055640b76b573433fb11f3ee3d428
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/stripecount_1.0.3.4.deb
+
+Name: SortingSwipe
+Package: me.lightmann.sortingswipe
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0)
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: Sort your homescreen icons with a swipe!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sortingswipeDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sortingswipeDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Lightmann <lightmanns11@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 222
+dev: lightmann
+Icon: https://raw.githubusercontent.com/L1ghtmann/SortingSwipe/main/icon.png
+MD5sum: 296ba8e977c5d0651d29a01b910b389b
+SHA1: be435354951c26f1186bad03cc12e36dd81c036f
+SHA256: edadf316e71c2cc038b4d608fa6110afe9ccc9aba2f1c3563fab207ff6318461
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sortingswipe_1.0.5.deb
+
+Name: Hijack
+Package: me.lightmann.hijack
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, applist
+Version: 1.0.1.2
+Architecture: iphoneos-arm
+Description: Selectively hide the statusbar on the LS, HS, CC, and/or within chosen apps
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hijackDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hijackDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Lightmann <lightmanns11@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 530
+dev: lightmann
+Icon: file:///Library/PreferenceBundles/HijackPrefs.bundle/icon@2x.png
+MD5sum: d90717c1f80898bab31cdf9bffc62f39
+SHA1: 5ffc09c6db38635b6ae4a522723d958e1f001f0e
+SHA256: 5ba231cbde3027190766793efe893e0ec7feecdc2ec81f9632cfaf3dda7046ec
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hijack_1.0.1.2.deb
+
+Package: com.dirtybeans.csources2
+Depends: firmware (>= 9.3.3), firmware (<= 14.7.1)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Name: CSources2
+Version: 933.1471-0
+Architecture: iphoneos-arm
+Description: manage & toggle package source entries
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Installed-Size: 71812
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: DirtyBeans <DirtyBeans@ca.rr.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Utilities
+dev: dirtybeans
+Tag: purpose::uikit
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+MD5sum: cf67c51ea0898a132a4aaf6c0b1768d5
+SHA1: 70fc9dcc11ea06f937f4018d8af6e1eb84a42e80
+SHA256: fb7770e66a0496f0cbac3f77bfab73d3ccc96577c4d43ef452e2c0288bcbbcb1
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/csources2_933.1471-0.deb
+
+Package: com.alexburneikis.customcarrier15
+Name: CustomCarrier15
+Architecture: iphoneos-arm
+Description: A tweak to change Carrier Text
+Maintainer: Alexander Burneikis
+Author: Alexander Burneikis
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Depiction: https://alexburneikis.github.io/repo/depictions/?p=com.alexburneikis.customcarrier15
+Version: 1.0.1
+Installed-Size: 356
+MD5sum: 620fc8f94b14a761bb1cec3fcee88ae9
+SHA1: d6103adf58a382059e46fa358ddf360947e1a943
+SHA256: 585f8442d6d3d3b06a362fb561908ce1aa94f95f75c18acdbb8eefec1d3f8ff2
+Filename: https://github.com/AlexBurneikis/CustomCarrier15/releases/download/1.0.1/com.alexburneikis.customcarrier15_1.0.1_iphoneos-arm.deb
+
+Package: com.pookjw.newbattery16
+Name: NewBattery16
+Architecture: iphoneos-arm
+Description: Enable iOS 16 style battery indicator on non-notch iOS devices.
+Maintainer: pookjw
+Author: pookjw
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000)
+Version: 1.0-1+debug
+Installed-Size: 168
+MD5sum: e468f3c7130f885f1317e3afde08040e
+SHA1: 053518e67f0c4ca55656526cd308094a6b17a617
+SHA256: b6c22df13db4cf2f0df8fcdd1f6f6b6c723a2fc8ef55160e9533f9bb4812047c
+Filename: https://github.com/pookjw/NewBattery16/releases/download/1.0/com.pookjw.newbattery16_1.0-1+debug_iphoneos-arm.deb
+
+Package: com.avangelista.denyonce
+Name: DenyOnce
+Author: Avangelista <no>
+Description: Deny access to an app attempting to access your location once, to make it ask again next time.
+Depends: mobilesubstrate
+Maintainer: Avangelista <no>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 264
+MD5sum: 64e410a7e5b2cd61641e605bb6a4c1d7
+SHA1: 8ca00db2bcdf057b9611dc6649f527a8c958394d
+SHA256: 9bab29e4c83d963d373be71bae35da4935289c0ee4eb4db04832caf3899bcce3
+Filename: https://github.com/Avangelista/DenyOnce/releases/download/release-0.0.4/com.avangelista.denyonce_0.0.4_iphoneos-arm.deb
+
+Package: com.avangelista.berealunblur
+Name: BeReal Unblur
+Author: Avangelista <no>
+Description: Unblur your friends’ posts!
+Depends: mobilesubstrate
+Maintainer: Avangelista <no>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 264
+MD5sum: 2055fd8b9b071be79d3d49dc93b73d4a
+SHA1: c1d1512eb8357d264adf142263eaeb5ded7de2ce
+SHA256: 00ab34f0cf4786c8f5136c3b87e87c13e19e735c53457cc321b70b6cbd09f645
+Filename: https://github.com/Avangelista/BeRealUnblur/releases/download/release/com.avangelista.berealunblur_0.0.2_iphoneos-arm.deb
+
+Package: com.guzzler.batterybar
+Name: batterybar
+Architecture: iphoneos-arm
+Description: A bar across the top of the screen showing how much battery is remaining.
+Maintainer: Guzzler829
+Author: Guzzler829
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Version: 1.0-84+debug
+Installed-Size: 396
+MD5sum: b1d4ee507c8b6f86cab51baab07135c0
+SHA1: 8bbacace19ed3254692af4853e4b757491a8be47
+SHA256: 0c093ece4f7d46855b0f9a01f9b9f0cebf00c6350f00cbddac8de58d4f0da9aa
+Filename: https://github.com/Guzzler829/guzzler829.github.io/raw/master/debs/com.guzzler.batterybar_1.0-84%2Bdebug_iphoneos-arm.deb
+
+Package: com.wrp1002.growingbadges
+Name: GrowingBadges
+Architecture: iphoneos-arm
+Description: App badges scale with how many notifications you have!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Version: 1.0.2
+Installed-Size: 536
+MD5sum: 44a3eca76c0c6743b86b5aed0df28763
+SHA1: d6fdda920bd95312f1ad9bdcb4e5ad41a3bce441
+SHA256: 1f2d486016ef9b1a134a11e172ad427e6bbf614c480e1235cd4350c2384e870e
+Filename: https://github.com/wrp1002/wrp1002.github.io/raw/master/debs/com.wrp1002.growingbadges_1.0.2_iphoneos-arm.deb
+
+Package: com.r.noreact
+Name: noReactions
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ryans
+Author: ryans
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-12+debug
+Installed-Size: 216
+MD5sum: 80b8009b4fafe457e86063e711cee9fa
+SHA1: 9fe7f22d30fe2ccc4d370b342253a8ab5aeb9813
+SHA256: c131359ee2b4c9d45a0404442a7fd3cdde59545aea8253a94ba3cacb4c17c61a
+Filename: https://github.com/ryan-sheridan/noReactions/releases/download/release/com.r.noreact_0.0.1-5+debug_iphoneos-arm.deb
+

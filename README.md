@@ -1,5 +1,7 @@
 # flower redirect
 A redirect of debs that aren't hosted on apt repositories, normally found on github releases.
+
+Includes bigboss packages that I find interesting, since bigboss isn't on canister anymore they're gonna be here.'
 [Add this repo to Sileo](https://repos.slim.rocks/repo/?repoUrl=https://flowerible.github.io/proxy-repo&manager=sileo)
 
 # Important information:

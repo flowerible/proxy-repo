@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Mon, 02 Jan 2023 11:58:59 +0000
+Date: Mon, 02 Jan 2023 13:23:20 +0000
 Description: Manually made redirect repo for debs that aren't hosted on repositories.
 Label: flower redirect
 Origin: flower redirect
 Suite: stable
 Version: 2.0
 MD5Sum:
- 3ee4b3a9493335632dd67b3042c61eeb             2958 Packages
- 0b405e0eacb6e80b5503b6b3b0ecd3aa             1559 Packages.bz2
- 2f4e8b1c53b4a766d5999688900e6908             1452 Packages.xz
- 8c0e42850bc887f574706a3a1df2b454             1404 Packages.zst
- 48b1c96371810658bde4191eee457c76              257 Release
+ 9fc0841065167b31368b7b162834311c            30078 Packages
+ dc22f08cf97ea1b8400ae655239a7ea9             8826 Packages.bz2
+ 3e82c36eae26b5f4c43c888963ac8a0a             8516 Packages.xz
+ 0025833c7a7d4bfc110f453c3841d18a             8852 Packages.zst
+ ae093c3fd24c28671e37c68ba67e75d8              257 Release
 SHA1:
- e5c077e50cba7f08d02c59d106f41cb037c6c911             2958 Packages
- 88a1ea04c09cf7f5a06f3686a55dc0036b8a03b2             1559 Packages.bz2
- 49b440125fcaf8279515d644c9c7cca345058e14             1452 Packages.xz
- 418b94b93f57d4035b36b956d543b238e6378ce8             1404 Packages.zst
- dae22e1535d063d470d09bca753815cbdc670e3c              257 Release
+ 2fd25baef608b0615dc06114ee7b1283b63c861b            30078 Packages
+ 8b73f42402e5f2e7ddbfbf39be62bc69c060cdd3             8826 Packages.bz2
+ d78698d3e2180ba7bc7de5fd72d4a7cbd59141a8             8516 Packages.xz
+ 5fd8475de9219cbd666579182102570f8556cb20             8852 Packages.zst
+ 461cd49a3945ecbbad5a98deb9c746d9b68e163c              257 Release
 SHA256:
- 1115b176fa0d1867cba5b6ae7d157eea843d0936b26c7f66098deb5efd4259ae             2958 Packages
- 09beaec041e1419af03dc6cb9d83ee6bf692aff822b0ec3cf3967c980be253a4             1559 Packages.bz2
- a0a9b2675d8cd64d8f5e1e7b9be35c7101eb81143aee7d1e859b57da60de8c69             1452 Packages.xz
- dbf3cfdb9a2b9527ad6b65a894a6ed9e3463903435492f0a776471dfdcc2953d             1404 Packages.zst
- e59b55f2cf553691eb16019e85fcac9f211f4d6af55d546888069e0de863f26f              257 Release
+ c05569c162efa32ca6a174b7e5b1b8e92a8fefb5eaa708fda8c2809bc5bf5469            30078 Packages
+ 0fbabebcbdab4db6285acb2b9426040de75268a5c5193c922107aebe0d17cefd             8826 Packages.bz2
+ ba5ede015bc1d10635c5130123084afcc2193cb6c3e0db070a1f7c77ee2865a9             8516 Packages.xz
+ d9ef82943029abe1a035de55bf387ddc8d6d25247c2a9fce145a37e2cd01afca             8852 Packages.zst
+ 14cc447a565b640f1b884e82746ee9443a0fc326b6b63b73bdf2f5b7d13a5353              257 Release
 SHA512:
- afd5df89a43e812871884fad16ac02bff3124b433fbf7ed3aa04907c48a48e4139d03ebbabd5d04f5d32c2b7d3c36b5ee5decd609e1b3fd182c1b937b5c90a62             2958 Packages
- 3641ecdd2b44a1d4e9a90e0603608c5f3102b034fa4ea94e0c8133342e6c4bc4470f6899d8c2c2871cd74f87770f989e9055ba74702bfb97479f18f626a339be             1559 Packages.bz2
- e158c6985e437815892600e2508802fd259e70ec78cbeb0d78c05d84c9b69b5c841fe8d71c737ff4b20901e914a9ba2112f82ff17afb2940fb2627911dc1c77d             1452 Packages.xz
- 4ab336e6bffd4a31ce1ae334f2e38d872ece7a03d62a9c79f093cb036bd101f972f5b984991415529571ae061655a9bbc70777e51586aedb1594ece3d2025726             1404 Packages.zst
- 453debccac0ed5d6e94533cb6c93ef6e17028e5f6ac6dff992999e0e9a4a668a7940ad8c0726e530f157c04104fbd88dff987a95b9343caca702da97a29a4c0d              257 Release
+ bf62669f6f0cc0c9fb3001bf8a46e651459a265ba2fcf8679e86f24ae23c4c22396f50dbaf79104ed27e5dc07ba2eb4d3c2701ae55ac8eeec53bcd19383e336a            30078 Packages
+ 5ce8714572927fe90da558abd46dc08be3e5b51c1a21f7267a800b6ce939b9c80c27268e8b9699879d854759e0633216f107a1222e501af295879b915862fbeb             8826 Packages.bz2
+ 01c5a441e5ede267c89efcb20770281d5681de545696b7eaad328087da3fe5b606eee8429712ce82d304798373c8076e939d11a5a050a39eb4d18da77a74310e             8516 Packages.xz
+ f6a0788cf53d187bd5e27326295d334fa50c234aa74c81e9a1afc74f6b1e47a6550f9b24f49636046570dc142b34a637be09e5ca3514cdf31ae4dcf4c0e1e555             8852 Packages.zst
+ 82c4e7ec11cbeeeaa75e3f3c89741d005cb7cbc446d2ab3f2d54f3789fc43ff647e8b851d9d84881b5425bdf3e6f04a3824d8adaed571c31d44ef3e5b28000f8              257 Release
