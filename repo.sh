@@ -11,14 +11,14 @@ bzip2 -c9 Packages > Packages.bz2
 
 echo "[Repository] Generating Release..."
 apt-ftparchive \
-		-o APT::FTPArchive::Release::Origin="flower proxy" \
-		-o APT::FTPArchive::Release::Label="flower proxy" \
+		-o APT::FTPArchive::Release::Origin="flower redirect" \
+		-o APT::FTPArchive::Release::Label="flower redirect" \
 		-o APT::FTPArchive::Release::Suite="stable" \
 		-o APT::FTPArchive::Release::Version="2.0" \
 		-o APT::FTPArchive::Release::Codename="ios" \
 		-o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
 		-o APT::FTPArchive::Release::Components="main" \
-		-o APT::FTPArchive::Release::Description="Manually made proxy repo for debs that aren't hosted on repositories." \
+		-o APT::FTPArchive::Release::Description="Manually made redirect repo for debs that aren't hosted on repositories." \
 		release . > Release
 
 echo "[Repository] Signing Release using Amy's GPG Key..."

@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Mon, 02 Jan 2023 11:17:03 +0000
-Description: Manually made proxy repo for debs that aren't hosted on repositories.
-Label: flower proxy
-Origin: flower proxy
+Date: Mon, 02 Jan 2023 11:55:54 +0000
+Description: Manually made redirect repo for debs that aren't hosted on repositories.
+Label: flower redirect
+Origin: flower redirect
 Suite: stable
 Version: 2.0
 MD5Sum:
- 2bb21a017c23d317ceefce7d166fae9d             8632 Packages
- 4332a86bc5c3ce240559203f9486b59e             2903 Packages.bz2
- 7daccdfa2bb782d51246cedff6707869             2708 Packages.xz
- 81adb935238627574beba38bc30fac90             2727 Packages.zst
- 560b48adcf08791b6a8b1df708b540d0              248 Release
+ f752a5ee0b9db3b152baab3de2662c75            10401 Packages
+ 0363e9faa9ef7b3be48c714aa37bace2             3573 Packages.bz2
+ 90f3bd22ba201c0f7443feba421056d5             3372 Packages.xz
+ e21e508f20c81969a223e8e6568bd718             3403 Packages.zst
+ 52f1fa012d67b9b094749b10762cc2a1              257 Release
 SHA1:
- 902a8e9e964562e6d1a55f7c962da63e5efe03af             8632 Packages
- 8f35e3947e5a3bb285d838e400386dd2a039fd99             2903 Packages.bz2
- dd1363ac4342d22056e5b804c576f251c47c5150             2708 Packages.xz
- 15b6dda2c19aeec9f27768d9a4887c3a552d1cc3             2727 Packages.zst
- 4cfd8774b9b9e21f5b951354b29e1fb390c91057              248 Release
+ 93820c3733465eb09eb6919af691763fd44c630e            10401 Packages
+ bab0948e71ebcf6e89aee2e95b0256aa3f4fd689             3573 Packages.bz2
+ 880fb5d09627be28d418d3237ef9cd3b358df293             3372 Packages.xz
+ 91168537216839d2f2b3e4e27d98dfef80d5388b             3403 Packages.zst
+ 7373f7f5d5f72e27153388b3c0430e7434b94f6f              257 Release
 SHA256:
- 0de6f7efa607ab28130ee5bd64b341d5b40bf08758565432b5e0538bcca656fc             8632 Packages
- c633686f7c6fba5a0315bfba79ec3446515c6df4e61dc4e81aa20c8f44496e00             2903 Packages.bz2
- 6d5efa7631377912a6903c19808b258e87fdf1b30e447415a6cb9cad6d3b1f05             2708 Packages.xz
- f60bde9df7623f27184e93c8b7b79cda639a3aed9d15f24cdd36b681d16a23b0             2727 Packages.zst
- 6c13f32279527552147e927fd419744bffb338e86b7820b17e93f46dfb557646              248 Release
+ 9598069760118ffc90fa9e58f740d8fca384cdc6b80319dc9314ecda49f8216f            10401 Packages
+ fa5fc4ef27709f47a21c7a954b991d909549ac92c0baa04dbd86ca141e67dd25             3573 Packages.bz2
+ c2cf606894464bab6a443de045a962be510b65a15f5e8e8794e072cd513c098b             3372 Packages.xz
+ e6487d9522c564332eb12fced07d25c42da33eb98ea7fff4fe7d2c3b79200ad3             3403 Packages.zst
+ 6f3d44bf0a14aa1cd6ba6bdfcfd14d7c0681f25b4a436b499b76d1b6dcad33c6              257 Release
 SHA512:
- 3b3bb6abc0b4b1a75b547dbb71840bc5d5428aef246f4a093427fbdc32f353adab28971eb34b05127679913ad5cb0e491f19f98690feb747484db824c15c3d7c             8632 Packages
- 1121a8262ddc98153e4e1c93e688ec5ad06cc663c4433fb3d5b70ad1aaa59dc4152e6ad89deda4b9c0b82595174106311f9e51363e481ff7d0d51ea1405cba56             2903 Packages.bz2
- 598dda47246a900b334bb39f0e56d10c2b57c1bf68e1addfa5b5b1f93f43bbf1e6066e657d9cad66024006381c5dcf3192951c0395cedf6e2ceafb4eedfb0b78             2708 Packages.xz
- 1d6f8f5d40a773341e687c41b8777394303659477d0eec45a1990822f1f35aeceb1866c7f562ba5ebef93c1e144bae1db872aaf9ec1051080b066fd9875c1458             2727 Packages.zst
- 242487b81fde9e442e9a6e3c746d41810723a85eb41881a3504c0dc1e41333329f6037729675b86de8f175a37f41a2e5ba2d3bdc26675663e1067ccad57a2736              248 Release
+ f20d085995620e7c00369830632606dcd7a3a34fba90dbadd6f6a55ee6ff62d3a9a6beb2df68274dce1c545cedb761d07a74c14e08c4dd41426f93cead79c931            10401 Packages
+ 135391a97d17230174e8fd12f118b4a8b6cbb7097980235ec8aca1f5d6aefdf502acacd3c9e4e4e9a15474b185bf0786f2f14121ee370fc86ac45ff80f0fc9e5             3573 Packages.bz2
+ 78bdf2360aca0f907d553a55870315a9b296a30ca49006ef3ed5ac295013c4ee0b3a15ec9a0bffe11148a0afcdbcdd32ee51f30934198f0d6d0fdaa5c758c156             3372 Packages.xz
+ 4ac972c5c759a9f9d6a9400348651b10c44aeed54477e2cd6f1e6082f2f6fdf4488fd9c7a512f6a751fd1ae1f79ce9cbe2521d1051e77884548e3d7f19cf5cfb             3403 Packages.zst
+ 886085cbaeccf8ebfe9e89b00033787c0f4b6a48842286c2272a6207fad217304c4aa21dfaa3e74a178c02dab1484b4b24093deecc2bb555631fa684cc6291e9              257 Release

@@ -210,3 +210,49 @@ SHA1: 17f25ecfb19fbc83edda70f92f268e0c68e3c205
 SHA256: eea75346c6de162a47deb316f20984b72cb45459be429b8a2f9db92693fd2664
 Filename: https://repo.dynastic.co/deb/b93607aad9ae0cc41f9785fef827d784.deb
 
+Package: de.saadat603.vibrantclock
+Name: VibrantClock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make your clock vibrant!
+Maintainer: Saadat Baig
+Author: Saadat Baig
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 136
+MD5sum: 4ce01b4024e4a47c437576540e1fae71
+SHA1: 62c1600d249c7afb3b51bfd4080b65a35dc99a5f
+SHA256: 9081cdb5d738c05f46a90bafb8c25786eeee7fd901124b28d45e268f219f6366
+Filename: https://github.com/Tr1Fecta-7/VibrantClock/raw/master/packages/de.saadat603.vibrantclock_1.0.1_iphoneos-arm.deb
+
+Package: com.captinc.batteryboobs
+Name: BatteryBoobs
+Version: 1.0
+Depends: firmware (>= 13.0), mobilesubstrate
+Installed-Size: 168
+Author: Capt Inc <captincrepo@gmail.com>
+Maintainer: Capt Inc <captincrepo@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Show battery percentage in the status bar
+MD5sum: 0a61dc75add8cef760811004928b28f6
+SHA1: 3fac475ac5c2c6147c151b02e92c9c4bcba4730d
+SHA256: 83b9ac5d52ba920f49cb14baa6bef423a3bb26786d3fd1ebd641bd7ac8155557
+Filename: https://cdn.discordapp.com/attachments/730448303837151233/754524945983209603/BatteryBoobs.deb
+
+Package: com.serena.santander
+Version: 1.0
+Section: Applications
+Architecture: iphoneos-arm
+Depends: firmware (>=14.0)
+Description: Santander resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Name: Santander
+Author: serena
+Maintainer: serena
+Tags: compatible_min::ios14.0
+Depiction: https://permasigner-depictions.itsnebula.net/depiction?name=Santander
+MD5sum: 45e9fdf61c36d11d430a13ec3e794731
+SHA1: 349883d48bbac5b6dca7750df263a51b51be7a25
+SHA256: a9e0a6737e18db985fd2c188bbdade20a8c19a3e17dc4cdee7a9af838687862b
+Filename: https://cdn.discordapp.com/attachments/921967527356170240/1059437741009551360/Santander_1.0.deb
+
