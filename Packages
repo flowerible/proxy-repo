@@ -9,6 +9,10 @@ Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Version: 1.1-58+debug
 Installed-Size: 344
 Filename: https://github.com/pookjw/BlurredPreferrences/releases/download/1.1/com.pookjw.blurredpreferences_1.1-58+debug_iphoneos-arm.deb
+Size: 8948
+MD5sum: 5efeaa102d4b2aee389403650c620ccd
+SHA1: 49d6047d921734866e1346ef179a7ed06abc25b9
+SHA256: 4eb54d48e1ade1c00aabd329b6960fcf2cbefb760b3084adc319fc123653b7e7
 
 Package: dev.traurige.kayoko
 Name: Kayoko
@@ -21,6 +25,10 @@ Section: Tweaks
 Version: 1.1
 Installed-Size: 864
 Filename: https://github.com/Traurige/Kayoko/releases/download/1.1/dev.traurige.kayoko_1.1_iphoneos-arm.deb
+Size: 79000
+MD5sum: db742ddfbd674bb2180f265dcf7bfbe3
+SHA1: 3baf2996ee71249d2c8828f7a2b9d6db8ce7e028
+SHA256: fb2817b206af6d3eba501bf1a0fe8fd959863c78600671917ce5e82a562e9e96
 
 Package: dev.traurige.eneko
 Name: Eneko
@@ -34,3 +42,7 @@ Section: Tweaks
 Version: 1.2
 Installed-Size: 368
 Filename: https://github.com/Traurige/Eneko/releases/download/1.2/dev.traurige.eneko_1.2_iphoneos-arm.deb
+Size: 29244
+MD5sum: 901ebf39749d3603d52a46fab1735487
+SHA1: df7936bdbafd670a74446f259c74b8dd5ed37100
+SHA256: 0ede71e5a696a5bade6385ceec6ec74c3cade6450f6d53bb5b078caf289a8de8
