@@ -1,6 +1,6 @@
 #!/bin/bash
+
 output_file=Packages
-# Get the URL of the file to download from the first argument
 url=$1
 
 # Extract the file name from the URL
