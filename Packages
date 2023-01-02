@@ -9,3 +9,15 @@ Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Version: 1.1-58+debug
 Installed-Size: 344
 Filename: https://github.com/pookjw/BlurredPreferrences/releases/download/1.1/com.pookjw.blurredpreferences_1.1-58+debug_iphoneos-arm.deb
+
+Package: dev.traurige.kayoko
+Name: Kayoko
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Description: Feature rich clipboard manager for iOS
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Version: 1.1
+Installed-Size: 864
+Filename: https://github.com/Traurige/Kayoko/releases/download/1.1/dev.traurige.kayoko_1.1_iphoneos-arm.deb
