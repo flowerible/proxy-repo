@@ -21,3 +21,16 @@ Section: Tweaks
 Version: 1.1
 Installed-Size: 864
 Filename: https://github.com/Traurige/Kayoko/releases/download/1.1/dev.traurige.kayoko_1.1_iphoneos-arm.deb
+
+Package: dev.traurige.eneko
+Name: Eneko
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Architecture: iphoneos-arm
+Description: Video wallpapers for iOS
+Maintainer: Traurige
+Author: Traurige
+Section: Tweaks
+Version: 1.2
+Installed-Size: 368
+Filename: https://github.com/Traurige/Eneko/releases/download/1.2/dev.traurige.eneko_1.2_iphoneos-arm.deb
