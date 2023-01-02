@@ -21,7 +21,7 @@ echo "MD5: $md5" >> $output_file
 echo "SHA1: $sha1" >> $output_file
 echo "SHA256: $sha256" >> $output_file
 echo "Filename: $url" >> $output_file
-echo " " >> $output_file
+echo "" >> $output_file
 
 # delete deb
 rm $file
