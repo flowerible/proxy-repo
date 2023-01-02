@@ -8,26 +8,22 @@ Origin: flower proxy
 Suite: stable
 Version: 2.0
 MD5Sum:
- 3cd0bbd3675523c339c1c673cd47bed4             1287 Packages
- cd7555f81d72544229a14437b971aadb              619 Packages.bz2
- e05d8379d6726164b8a7791b2ef9e923              572 Packages.xz
- 53a849673925660a771defda4c73285c              518 Packages.zst
- 64c7717a2a72354d1aa354969ac86ed4              248 Release
+ e5c3963685a75db29529544e67568ecd             1805 Packages
+ 3798f59ad3133157de0458ca7c6b5962              957 Packages.bz2
+ b1768dbbb764e387cfafa0532ec10de5              896 Packages.xz
+ 8843e1d6d492703b2c4d6aab2361ded6              844 Packages.zst
 SHA1:
- cf0fc8d78f4269032efaed92d8e512502d904f94             1287 Packages
- ff83aa80487647fee5411d0f78ca634a17b7faf7              619 Packages.bz2
- 25046ce5159567e2bcd9b1bd1ef0a89f25d1b9a3              572 Packages.xz
- 616cbddd293f64cd5d3e75f5cf7933f1ab52a32b              518 Packages.zst
- 5f7004989bb7b445d43b0e24ca50cde7146221ce              248 Release
+ 41bf530afe2d26e5b569f450436b5363d14b5b99             1805 Packages
+ 10f6dfe5e6b2fd2355def55e4f007dca48b6c0d7              957 Packages.bz2
+ 7f8a0043f66281974d5d61484b388a4250193e35              896 Packages.xz
+ e5aba3ca737e7500ba46f4361b723a75555a499b              844 Packages.zst
 SHA256:
- 8ba5d029ac2ba033ed041426df472409eac18cb4703dc341db184f224ed76d5e             1287 Packages
- d6e27abf0024d2d1f20d67b6f25b253e6ec6b019e63b13f7d98f8295a03caa35              619 Packages.bz2
- ba1ceee93b5548c57622b5004e0c1fe01449932aaeac51ce2a9ffb78654c29bb              572 Packages.xz
- 84c968098b46a700f2657bb26104bc5609b9684e6f75debcf5a79bd2cfbf26cc              518 Packages.zst
- 29fdbc01516899a71270adccd3582b40621d354aac8a20c1ca2898d2a4b25e5f              248 Release
+ 03cbbf440c1137c1d52ac46b842dbc17ee71ff3fa0019a83ed8315a0850e35f4             1805 Packages
+ 9f209fd09b1393a9b656e3740229d7d570c5b70f6bf4a2f6503f860c789ca6ab              957 Packages.bz2
+ 17d1474aec76ae6726873d4d4425e4a8e450dc6a08ce6978dc252e53e248d83c              896 Packages.xz
+ 8fa2789a6d7af75a99b09fbc2afca1fddb169c559d0979eb0c3eaf2eb47944df              844 Packages.zst
 SHA512:
- ff266fd361b6e2af7a3ee3c972d8f130c9db1091efad66dad9d73b22c8640e2368e452f055871ebb04eff480f464e3d50ef0d5d06e6f1d78848150fe6b2143e5             1287 Packages
- 3758e6a15f697e1198d33c7b7a295f6ec7fda616e60072e2ffc27fed4b1383ca7aaadf441efb364dc230fa76737d98a6a0a6351996a14adab015f3bbfc27ff38              619 Packages.bz2
- 66c69bd352bddada576fdfe93448747edf03bc30cb2e8c53add95cbe8a6da7fc76829cf7002af2e3681ae3fdbb8061798ce13b6dd82207cbdf8c14135262bea0              572 Packages.xz
- c7c5674323717a1d1378ebf4e04accb48aa031ed3f9e276ee1902cc7103d954804cd8e86d363fdcc9be58449f51fa9681d296651398fe3a8290c388de1a55dc4              518 Packages.zst
- 5df9075e4c75dfd4fff300a48652f23c945d853f4b5fc4256bb6faf2b892bc79e09b9e03870be8264adabe88e93149f89d74437d8ad18db4cca89f6d8f08805f              248 Release
+ 33c3a908cf4038d4e5b021a44869d5db1dcb16700ee6cc0db11693aeaa641bf64052b85fed9735d306a4b38cef147d831eadfd79ed1b11956f5224e0c55d2361             1805 Packages
+ bec64c17e692080ecd5cd27538146565856547a92801a50cfaf53f6dcc232f3d541e52a47f82dcba99b3ddaaf8b9ce9572f86911cf31fb7af0acac03b38404d5              957 Packages.bz2
+ 3941a5a6c4224b6b56d5e249621f37a160ca836cf34459b20bdb0181cafcc6c86a00f25d957993ae01de395edfb1132fc668c654f3984161340413e4bc348189              896 Packages.xz
+ e7f9ec7838b36b6666c6a38cae871cea18ab7d806b6bc75811cfcb2f94e2c018428794e25e0f722a2f4b958370827d8cf4f41fcf8ff664bb0aae6d8c1822e65f              844 Packages.zst
