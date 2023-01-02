@@ -12,7 +12,7 @@ MD5: 5efeaa102d4b2aee389403650c620ccd
 SHA1: 49d6047d921734866e1346ef179a7ed06abc25b9
 SHA256: 4eb54d48e1ade1c00aabd329b6960fcf2cbefb760b3084adc319fc123653b7e7
 Filename: https://github.com/pookjw/BlurredPreferrences/releases/download/1.1/com.pookjw.blurredpreferences_1.1-58+debug_iphoneos-arm.deb
- 
+
 Package: dev.traurige.kayoko
 Name: Kayoko
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
@@ -27,7 +27,7 @@ MD5: db742ddfbd674bb2180f265dcf7bfbe3
 SHA1: 3baf2996ee71249d2c8828f7a2b9d6db8ce7e028
 SHA256: fb2817b206af6d3eba501bf1a0fe8fd959863c78600671917ce5e82a562e9e96
 Filename: https://github.com/Traurige/Kayoko/releases/download/1.1/dev.traurige.kayoko_1.1_iphoneos-arm.deb
- 
+
 Package: dev.traurige.eneko
 Name: Eneko
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
@@ -43,7 +43,7 @@ MD5: 901ebf39749d3603d52a46fab1735487
 SHA1: df7936bdbafd670a74446f259c74b8dd5ed37100
 SHA256: 0ede71e5a696a5bade6385ceec6ec74c3cade6450f6d53bb5b078caf289a8de8
 Filename: https://github.com/Traurige/Eneko/releases/download/1.2/dev.traurige.eneko_1.2_iphoneos-arm.deb
- 
+
 Package: dev.traurige.libkitten
 Name: libKitten
 Depends: firmware (>= 12.0)
@@ -61,7 +61,7 @@ MD5: d205a5709dad254c7786e08c347b61a7
 SHA1: 3ab2df93e3099812a2364bbbf032c83cf4ea9a5c
 SHA256: 7613d2aeb7e7471394747760990043d15e0ded5723b3f559c74005929780f701
 Filename: https://github.com/Traurige/libKitten/releases/download/1.4/dev.traurige.libkitten_1.4_iphoneos-arm.deb
- 
+
 Package: dev.traurige.liddell
 Name: Liddell
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
@@ -77,7 +77,7 @@ MD5: 19c1b80fe16e91fa2085e0903f1a8bf8
 SHA1: 7bb9a4efa35efbc528712095a58a4f8d98c7cdb8
 SHA256: 0c2e9456edc85ea2b585d2ee4b78bb5398974f34ffd0917379935b7b116cd3d4
 Filename: https://github.com/Traurige/Liddell/releases/download/1.4.1/dev.traurige.liddell_1.4.1_iphoneos-arm.deb
- 
+
 Package: dev.traurige.ve
 Name: Vē 💌
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
@@ -93,7 +93,7 @@ MD5: 2f99239162782c2566dfcc9a007f7391
 SHA1: a4ddd0ddc01f2c310fa3340fa404512284b32f23
 SHA256: 2742bd26793fd0fe7215e48ba980c09192173aa3f9ade0e05d758dde37165674
 Filename: https://github.com/Traurige/Ve/releases/download/1.1.5/dev.traurige.ve_1.1.5_iphoneos-arm.deb
- 
+
 Package: dev.traurige.batterybuddy
 Name: BatteryBuddy
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
@@ -109,7 +109,7 @@ MD5: 25a7fdd7029c107ab291905adf28358d
 SHA1: 071e0d45d26fb8d8d88ea65b285ea6578797efd6
 SHA256: f61eccc7274930814d18ef53004aefc6221b8c2f23c95bc31e55b40d57481370
 Filename: https://github.com/Traurige/BatteryBuddy/releases/download/1.3.2/dev.traurige.batterybuddy_1.3.2_iphoneos-arm.deb
- 
+
 Package: love.litten.heartlines
 Name: Heartlines 🌺
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
@@ -124,7 +124,7 @@ MD5: 38431ef01498fc5a81121381aa7e84f1
 SHA1: fc7c0decddb7a548724651f3f4b42acd13dc870f
 SHA256: 3ee2d61d2d69938f1caa485e8375c4150b88b8ce16722526d0bf0f0fc7183b87
 Filename: https://github.com/Traurige/Heartlines/releases/download/1.5.4/love.litten.heartlines_1.5.4_iphoneos-arm.deb
- 
+
 Package: love.litten.dejavu
 Name: Déjà Vu 🕰
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
@@ -142,7 +142,7 @@ MD5: 137fa7284b052d53e1d308fd749e89a2
 SHA1: 9600c86bde017e8b6da11235fd338387ca73cf73
 SHA256: 6293d534a28eb989b78ba21ed788440bea46aabfea11c14da7dd39b4fd0eb3ba
 Filename: https://github.com/Traurige/Deja-Vu/releases/download/1.3.2/love.litten.dejavu_1.3.2_iphoneos-arm.deb
- 
+
 Package: love.litten.yuna
 Name: Yuna 🍃
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
@@ -160,7 +160,7 @@ MD5: d0e5f1c2ca8d0c851db94e2582af568e
 SHA1: 79bc74d0bd63a4f97d96f0cc4c8c09acdcd15cbb
 SHA256: d89a3b2ffbcf1dfc5c0d47a327832e86c6381790b8c5c9d8b1050a13a8c56cc0
 Filename: https://github.com/Traurige/Yuna/releases/download/1.0.2/love.litten.yuna_1.0.2_iphoneos-arm.deb
- 
+
 Package: love.litten.crystal
 Name: Crystal 💎
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
@@ -178,7 +178,7 @@ MD5: 648f8b93b5dc3605a8fccacd7159b06b
 SHA1: 9c228a484778998ad9b888104d5226fe6e1913af
 SHA256: 36134111fab35d68b229322be4de9812d59e9cb4bc8318bdb7610c6545943a8c
 Filename: https://github.com/Traurige/Crystal/releases/download/1.4.1/love.litten.crystal_1.4.1_iphoneos-arm.deb
- 
+
 Package: love.litten.diary
 Name: Diary 📖
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
@@ -194,7 +194,7 @@ MD5: da8e87b06352fe8afbfa6421e19d0844
 SHA1: fe998f6d4ba1ebffdf7dbcd0721242b3a619c4a4
 SHA256: 133ae7176a09fc7b6f21b6dce053081e4a66fd3a3dad671af2fa74f3b573785f
 Filename: https://github.com/Traurige/Diary/releases/download/1.2.2/love.litten.diary_1.2.2_iphoneos-arm.deb
- 
+
 Package: me.conorthedev.libappearancecell
 Name: libappearancecell
 Architecture: iphoneos-arm
@@ -209,4 +209,4 @@ MD5: b93607aad9ae0cc41f9785fef827d784
 SHA1: 17f25ecfb19fbc83edda70f92f268e0c68e3c205
 SHA256: eea75346c6de162a47deb316f20984b72cb45459be429b8a2f9db92693fd2664
 Filename: https://repo.dynastic.co/deb/b93607aad9ae0cc41f9785fef827d784.deb
- 
+
