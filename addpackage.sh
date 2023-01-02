@@ -17,7 +17,7 @@ sha256=$(shasum -a 256 "$file" | cut -d ' ' -f 1)
 
 # echo into output file
 echo "$control" >> $output_file
-echo "MD5: $md5" >> $output_file
+echo "MD5sum: $md5" >> $output_file
 echo "SHA1: $sha1" >> $output_file
 echo "SHA256: $sha256" >> $output_file
 echo "Filename: $url" >> $output_file
